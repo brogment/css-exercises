@@ -42,5 +42,5 @@ body {
 }
 
 .info {
-  max-width: 200px;
+  flex-basis: 200px;
 }
